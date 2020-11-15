@@ -6,7 +6,7 @@
 	"terminal" "edit" "files" "services" "debug" "profile" "docs" "help" "netmon"
 	"stats" "clock" "calculator" "fonts" "chat" "images" "films" "whiteboard" "pcb"
 	"boing" "freeball" "bubbles" "canvas" "raymarch" "mandelbrot" "chess"
-	"minefield")
+	"minefield" "vptest")
 	*env_launcher_auto_apps* '("clock" "terminal"))
 
 ;launcher placement from xy :center :top :bottom :left :right)
